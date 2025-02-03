@@ -1,3 +1,3 @@
 # README
 
-![Alt text](https://github.com/README/PDSC_Logo.png)
+![Alt text](images/PDSC_Logo.png)
