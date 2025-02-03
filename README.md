@@ -1,7 +1,7 @@
 # Welcome to the Pace Data Science Club Github!
 
 
-<img src="PDSC_Logo.png" alt="alt text" width="100"/>
+<img src="PDSC_Logo.png" alt="alt text" width="150"/>
 
 ## Club Description
 
